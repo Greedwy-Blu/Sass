@@ -1,0 +1,324 @@
+.bg-black-1 {
+  background-color: #0A0A0D;
+}
+
+.bg-black-2 {
+  background-color: #0A0B0D;
+}
+
+.bg-black-3 {
+  background-color: #313033;
+}
+
+.bg-dark-1 {
+  background-color: #0D0D0D;
+}
+
+.bg-dark-2 {
+  background-color: #0d0d0d;
+}
+
+.bg-dark-3 {
+  background-color: #333333;
+}
+
+.bg-dark-4 {
+  background-color: #595959;
+}
+
+.bg-dark-5 {
+  background-color: #A6A6A6;
+}
+
+.bg-gray-1 {
+  background-color: #404040;
+}
+
+.bg-gray-2 {
+  background-color: #7F7F7F;
+}
+
+.bg-gray-3 {
+  background-color: #BFBFBF;
+}
+
+.bg-rosa-1 {
+  background-color: #F22E62;
+}
+
+.bg-rosa-2 {
+  background-color: #F25781;
+}
+
+.bg-rosa-3 {
+  background-color: #F28DA8;
+}
+
+.bg-azul-1 {
+  background-color: #024059;
+}
+
+.bg-azul-2 {
+  background-color: #025159;
+}
+
+.bg-azul-3 {
+  background-color: #038C8C;
+}
+
+.bg-azul-4 {
+  background-color: #03A696;
+}
+
+.bg-azul-5 {
+  background-color: #049DBF;
+}
+
+.bg-roxo-1 {
+  background-color: #59253E;
+}
+
+.bg-roxo-2 {
+  background-color: #730237;
+}
+
+.bg-roxo-3 {
+  background-color: #473273;
+}
+
+.bg-roxo-4 {
+  background-color: #6141A6;
+}
+
+.bg-roxo-5 {
+  background-color: #7D52D9;
+}
+
+.bg-roxo-6 {
+  background-color: #8C5CF2;
+}
+
+.bg-laranja-1 {
+  background-color: #D95525;
+}
+
+.bg-laranja-2 {
+  background-color: #D96A29;
+}
+
+.bg-laranja-3 {
+  background-color: #F2955E;
+}
+
+.bg-vermelho-1 {
+  background-color: #BF1B1B;
+}
+
+.bg-vermelho-2 {
+  background-color: #D90404;
+}
+
+.bg-verde-1 {
+  background-color: #218C03;
+}
+
+.bg-verde-2 {
+  background-color: #27A603;
+}
+
+.bg-verde-3 {
+  background-color: #1ED960;
+}
+
+.bg-amarelo-1 {
+  background-color: #F2B705;
+}
+
+.bg-amarelo-2 {
+  background-color: #F2CB05;
+}
+
+.bg-amarelo-3 {
+  background-color: #F2C849;
+}
+
+.bg-white-1 {
+  background-color: #F2F2F2;
+}
+
+.bg-white-2 {
+  background-color: #F2F2F2;
+}
+
+.bg-white-3 {
+  background-color: #E0E0DA;
+}
+
+.texto-black-1 {
+  background-color: #0A0A0D;
+}
+
+.texto-black-2 {
+  background-color: #0A0B0D;
+}
+
+.texto-black-3 {
+  background-color: #313033;
+}
+
+.texto-dark-1 {
+  background-color: #0D0D0D;
+}
+
+.texto-dark-2 {
+  background-color: #0d0d0d;
+}
+
+.texto-dark-3 {
+  background-color: #333333;
+}
+
+.texto-dark-4 {
+  background-color: #595959;
+}
+
+.texto-dark-5 {
+  background-color: #A6A6A6;
+}
+
+.texto-gray-1 {
+  background-color: #404040;
+}
+
+.texto-gray-2 {
+  background-color: #7F7F7F;
+}
+
+.texto-gray-3 {
+  background-color: #BFBFBF;
+}
+
+.texto-rosa-1 {
+  background-color: #F22E62;
+}
+
+.texto-rosa-2 {
+  background-color: #F25781;
+}
+
+.texto-rosa-3 {
+  background-color: #F28DA8;
+}
+
+.texto-azul-1 {
+  background-color: #024059;
+}
+
+.texto-azul-2 {
+  background-color: #025159;
+}
+
+.texto-azul-3 {
+  background-color: #038C8C;
+}
+
+.texto-azul-4 {
+  background-color: #03A696;
+}
+
+.texto-azul-5 {
+  background-color: #049DBF;
+}
+
+.texto-roxo-1 {
+  background-color: #59253E;
+}
+
+.texto-roxo-2 {
+  background-color: #730237;
+}
+
+.texto-roxo-3 {
+  background-color: #473273;
+}
+
+.texto-roxo-4 {
+  background-color: #6141A6;
+}
+
+.texto-roxo-5 {
+  background-color: #7D52D9;
+}
+
+.texto-roxo-6 {
+  background-color: #8C5CF2;
+}
+
+.texto-laranja-1 {
+  background-color: #D95525;
+}
+
+.texto-laranja-2 {
+  background-color: #D96A29;
+}
+
+.texto-laranja-3 {
+  background-color: #F2955E;
+}
+
+.texto-vermelho-1 {
+  background-color: #BF1B1B;
+}
+
+.texto-vermelho-2 {
+  background-color: #D90404;
+}
+
+.texto-verde-1 {
+  background-color: #218C03;
+}
+
+.texto-verde-2 {
+  background-color: #27A603;
+}
+
+.texto-verde-3 {
+  background-color: #1ED960;
+}
+
+.texto-amarelo-1 {
+  background-color: #F2B705;
+}
+
+.texto-amarelo-2 {
+  background-color: #F2CB05;
+}
+
+.texto-amarelo-3 {
+  background-color: #F2C849;
+}
+
+.texto-white-1 {
+  background-color: #F2F2F2;
+}
+
+.texto-white-2 {
+  background-color: #F2F2F2;
+}
+
+.texto-white-3 {
+  background-color: #E0E0DA;
+}
+
+.es {
+  float: left;
+  width: 100%;
+  height: 35px;
+}
+
+.sp {
+  float: left;
+  width: 100%;
+  height: 35px;
+}
+/*# sourceMappingURL=main.css.map */
